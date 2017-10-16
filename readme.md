@@ -1,5 +1,13 @@
+```
+- Prevent mouse double click (LButton.ahk)
+
+```
+
+
+
 # Download
 Auto Hotkey Software from [here](https://autohotkey.com/)
+
 
 #### After Install 
 - Right Click on Desktop
